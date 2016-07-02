@@ -1,8 +1,6 @@
-# Digitale Typographie, Links
+# CAS Digital Typography, Links
 
 ## Design / Kritik
-
-*On the web, once we reach the system level, we freeze. We’ve got our system. We stop worrying about content and design and call it a day. In editorial, the system is where design begins.*
 
 * [Design Machines](https://louderthanten.com/articles/story/design-machines)
 * [The Billionaire's Typewriter](http://practicaltypography.com/billionaires-typewriter.html) 
@@ -16,6 +14,7 @@
 ## Storytelling
 
 * [Pixar story rules (one version)](http://www.pixartouchbook.com/blog/2011/5/15/pixar-story-rules-one-version.html)
+* [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621)
 
 ## Informationsarchitektur
 
@@ -80,7 +79,7 @@
 * [HOW TO: Pure CSS masonry layouts](https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.77voblqui)
 * [Rachel Andrews: Should I Use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
-## RWD, Responsive Web Design
+## Responsive Web Design (RWD)
 
 * [Device Agnostic](http://trentwalton.com/2014/03/10/device-agnostic/)
 * [Mozilla Developer Network: The Viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
@@ -142,13 +141,14 @@
 * [Blending Modes Demistified](http://alistapart.com/article/blending-modes-demystified)
 * [An inventory of typographic tools](http://typography.supply/)
 
-## Gute Seiten als Beispiele
+## Gute (?) Web Sites als Beispiele
 
 * [New York Times, Rise and Shine](http://www.nytimes.com/interactive/2014/10/08/magazine/eaters-all-over.html)
 * [Keller Theater Winterthur](http://kellertheater-winterthur.ch/) *Anton Studer*
 * [Hip Hop Quoted](http://hiphopquoted.com/)
 * [Malika Favre](http://futurefabric.co.uk/malika-favre)
 * [Harpe 45](http://harpe45.ch/)
+* [Navigating Responsibly](http://www.navigatingresponsibly.dk/)
 
 ## Webdesign, Schriften
 
@@ -229,13 +229,12 @@
 * Muster: [The Pattern Library](http://thepatternlibrary.com/)
 * Muster: [Subtle Patterns](http://subtlepatterns.com/)
 * [GIF](http://digitalmateriality.com/)
-* GIF Animationen: [Fighting GIFs](http://imgur.com/a/GPlx4)
 
 ## Formulare
 
 * [UX Movement, Top Aligned Form Lables](http://uxmovement.com/forms/why-infield-top-aligned-form-labels-are-quickest-to-scan/)
 
-## Prototyping Tool
+## Prototyping Tools
 
 * [Marvel](https://marvelapp.com/)
 * [Origami](https://facebook.github.io/origami/) (Facebook)
@@ -274,6 +273,7 @@
 
 * [Übersicht zu barrierefreien Web-Applikationen und Komponenten](https://developer.mozilla.org/de/docs/Web/Barrierefreiheit/An_overview_of_accessible_web_applications_and_widgets)
 * [Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/Standards/Section508/)
+* [Responses To The Screen Reader Strategy Survey](http://www.heydonworks.com/article/responses-to-the-screen-reader-strategy-survey)
 
 ## iBooks, ePub
 
@@ -346,12 +346,14 @@
 * [Popmotion.js](http://popmotion.io/)
 * [The Wild Path – An Interactive Storytelling Experiment](http://tympanus.net/Development/StorytellingMap/)
 * [React – Examples](https://react.rocks/tag/Animation)
+* [Scroll Trigger – Scroll Based Animations](https://github.com/terwanerik/ScrollTrigger)
 
 ## CSS Allgemein
 
 * [Hiding Things with CSS](https://css-tricks.com/video-screencasts/142-hiding-things-with-css/)
 * [Scroll Snap Points](https://css-tricks.com/introducing-css-scroll-snap-points/)
 * [Dropbox CSS, Move Slow and Fix Things](https://youtu.be/zmjfh099zYg)
+* [MDN – CSS Coding Techniques](https://hacks.mozilla.org/2016/05/css-coding-techniques/)
 
 ## CSS Animation
 
@@ -466,7 +468,9 @@
 
 ## Technik allg.
 
-* [The front-end side of news](https://isellsoap.github.io/front-end-side-of-news/)*Front-end metrics from big news sites around the world.*
+* [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode](http://www.joelonsoftware.com/articles/Unicode.html)
+* [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
+* [The front-end side of news](https://isellsoap.github.io/front-end-side-of-news/) *Front-end metrics from big news sites around the world.*
 * [HOW HTTP/2 WILL SPEED UP THE WEB](https://kinsta.com/learn/what-is-http2/)
 
 ## CMS
