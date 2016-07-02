@@ -342,7 +342,6 @@
 ## Javascript Allgemein
 
 * [Eloquent Javascript](http://eloquentjavascript.net/)
-* [Maybe we could tone down the JavaScript](https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/)
 * [Dan Shiffman, Resources](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Resources)
 * [How to learn JavaScript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Podcasts](http://jstherightway.org/#podcasts)
@@ -454,8 +453,10 @@
 
 ## Progressive Enhancement
 
+* [Maybe we could tone down the JavaScript](https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/)
 * [Reimagining Single-Page Applications With Progressive Enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
 * [Interaction is an Enhancement](http://alistapart.com/article/interaction-is-an-enhancement)
+* [Jeremy Keith –Jeremy Keith – Regressive Web Apps](https://adactio.com/journal/10708)
 * [Why Britain Banned Mobile Apps](https://www.instapaper.com/read/733226787)
 
 ## Browsers
