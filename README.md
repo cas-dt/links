@@ -61,12 +61,12 @@
 * [50 Shades of Corporate Blue](http://madebymike.com.au/writing/style-guides-50-shades-of-corporate-blue/)
 * [A new mobile navigation menu](https://medium.com/@supjoey/the-curtain-menu-redesigning-drop-down-navigation-for-mobile-bd63b555a3df#.vcyszhpa9)
 
-## Flexible Boxes
+## CSS Flexible Boxes
 
 * [Flexbox Game](https://www.flexboxgame.com/)
+* [Learn Flex Box With Flex Box Froggy](http://flexboxfroggy.com/)
 * [Almost complete guide to flexbox (without flexbox)](https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 * [CSS Flexbox is logical – almost](https://paulrobertlloyd.com/2016/03/logical_flexbox)
-* [Learn Flex Box With Flex Box Froggy](http://flexboxfroggy.com/)
 * [CSS Tricks – A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Philip Walton – Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 * [Codepen – Flexbox Collection](http://codepen.io/collection/KegmA/)
@@ -78,6 +78,7 @@
 * [CSS Tricks – Boxes That Fill Height](https://css-tricks.com/boxes-fill-height-dont-squish/)
 * [HOW TO: Pure CSS masonry layouts](https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.77voblqui)
 * [Rachel Andrews: Should I Use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+* [Estelle Weyl – Flexbox: WTF](https://youtu.be/qDlswTzbnmk)
 
 ## Responsive Web Design (RWD)
 
@@ -150,7 +151,7 @@
 * [Malika Favre](http://futurefabric.co.uk/malika-favre)
 * [Harpe 45](http://harpe45.ch/)
 * [Navigating Responsibly](http://www.navigatingresponsibly.dk/)
-
+* [Washington Post – THE INSIDE STORY OF WHEN RUN‑DMC MET AEROSMITH AND CHANGED MUSIC FOREVER](https://www.washingtonpost.com/graphics/lifestyle/walk-this-way/)
 ## Webdesign, Schriften
 
 * [The State of Web Type](http://stateofwebtype.com/)
