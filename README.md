@@ -89,6 +89,7 @@
 * [Tipy – Sass Maps for Responsive Type](https://github.com/zellwk/typi) (keine Ahnung, ob’s was taugt)
 * [How You Can Use Responsive Web Components Today](http://www.sitepoint.com/responsive-web-components/?utm_source=CSS-Weekly&utm_campaign=Issue-210&utm_medium=email)
 * [Google Design, Device Metrics](https://design.google.com/devices/)
+* [Brad Frost – RWD Ressources](https://bradfrost.github.io/this-is-responsive/resources.html)
 
 ## Responsive Images
 
