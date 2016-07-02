@@ -175,6 +175,7 @@
 * [Jeremy Hornus – Live Optical Sizing](http://www.typosansplomb.com/ResponsiveInterpolation/)
 * [Nina Stoessinger](http://typologic.nl/)
 * [Size Calculator](http://sizecalc.com/)
+* [Designing Between Points](http://www.aetherpoint.com/blogpost/designing-between-points/)
 
 ## Auflösung, Screens
 
@@ -338,6 +339,19 @@
 * [Smashing Magazine: Functional Animation in UX Design](https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/)
 * [Sarah Drasner: Practical Techniques On Designing Animation](https://www.smashingmagazine.com/2015/06/practical-techniques-on-designing-animation/)
 
+## Javascript Allgemein
+
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Maybe we could tone down the JavaScript](https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/)
+* [Dan Shiffman, Resources](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Resources)
+* [How to learn JavaScript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+* [Podcasts](http://jstherightway.org/#podcasts)
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+* [Murphey: adventures in javascript](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers) *Leitfaden*
+* [Paul Irish: Ten Things I Learned from the JQuery Source](http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
+* [Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript#ref1) 
+* [Embrace prototypal object-oriented programming](http://www.ibm.com/developerworks/library/wa-protoop/)
+
 ## Javascript Animation
 
 * [jquery UI](http://jqueryui.com/)
@@ -442,14 +456,23 @@
 
 * [Reimagining Single-Page Applications With Progressive Enhancement](http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
 * [Interaction is an Enhancement](http://alistapart.com/article/interaction-is-an-enhancement)
+* [Why Britain Banned Mobile Apps](https://www.instapaper.com/read/733226787)
 
 ## Browsers
 
 * [Safari](https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)
 
+## Markdown
+
+* [John Gruber – Markdown](https://daringfireball.net/projects/markdown/)
+* [Good ways to view markdown files as you're writing them?](https://www.reddit.com/r/vim/comments/4lsxzw/good_ways_to_view_markdown_files_as_youre_writing/)
+* [Mou – Markdown Editor](http://25.io/mou/)
+* [Marked – Markdown Preview / Tool](http://marked2app.com/)
+
 ## Programming
 
 * [Technical Development Guide (How to Become a Programmer)](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [The Book of Shaders](http://thebookofshaders.com/) *Gehört ev. eher zu Processing/p5.js/drawbot/visual programming*
 
 ## Service Workers
 
