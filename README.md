@@ -145,6 +145,8 @@
 
 ## Gute (?) Web Sites als Beispiele
 
+* [The Intercept](https://theintercept.com)
+* [MIT Technology Review](https://www.technologyreview.com)
 * [New York Times, Rise and Shine](http://www.nytimes.com/interactive/2014/10/08/magazine/eaters-all-over.html)
 * [Keller Theater Winterthur](http://kellertheater-winterthur.ch/) *Anton Studer*
 * [Hip Hop Quoted](http://hiphopquoted.com/)
