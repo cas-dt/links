@@ -15,6 +15,7 @@
 
 * [Pixar story rules (one version)](http://www.pixartouchbook.com/blog/2011/5/15/pixar-story-rules-one-version.html)
 * [Tiny Content Framework](https://gist.github.com/nicoleslaw/2155621)
+* [(Beispiel) NY Times – South Chinese Sea](http://www.nytimes.com/interactive/2016/07/10/world/asia/south-china-sea-scarborough-shoal-philippines-hague.html)
 
 ## Informationsarchitektur
 
