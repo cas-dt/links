@@ -10,6 +10,7 @@
 * [Web Industry: Confidence and Overwhelm](https://medium.com/@rachelandrew/web-industry-confidence-and-overwhelm-e161313405c8#.e97zt142w)
 * [Is Web Typography Completely Broken?](http://zellwk.com/blog/web-typography-broken/?utm_source=CSS-Weekly&utm_campaign=Issue-208&utm_medium=email)
 * [Facebook is wrong, text is deathless](http://kottke.org/16/06/facebook-is-wrong-text-is-deathless)
+* [How We Lost 47% of Our Users After a Redesign](https://icons8.com/articles/how-we-lost-47-of-our-users-after-a-redesign/)
 
 ## Storytelling
 
@@ -78,7 +79,7 @@
 * [W3Schools – CSS flex Property](http://www.w3schools.com/cssref/css3_pr_flex.asp)
 * [CSS Tricks – Boxes That Fill Height](https://css-tricks.com/boxes-fill-height-dont-squish/)
 * [HOW TO: Pure CSS masonry layouts](https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.77voblqui)
-* [Rachel Andrews: Should I Use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+* [Rachel Andrew: Should I Use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 * [Estelle Weyl – Flexbox: WTF](https://youtu.be/qDlswTzbnmk)
 
 ## Responsive Web Design (RWD)
@@ -208,6 +209,7 @@
 * [Tutorial: Building a Home Page with Grid](http://chris.house/blog/building-a-home-page-with-grid/)
 * [Grid Resources](http://gridbyexample.com/resources/)
 * [CSS Grid Inspector](https://github.com/mozilla/css-grid-inspector)
+* [The New CSS Layout](https://vimeo.com/168522483)
 * [Rachel Andrews – CSS Layout](https://vimeo.com/168522483)
 
 ## Styleguides
@@ -375,6 +377,7 @@
 
 ## CSS Animation
 
+* [You don’t need JavaScript](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 * [Portal CSS, Tutorial](https://cssanimation.rocks/portal/)
 * [Val Head, Designing Safer Web Animation For Motion Sensitivity](http://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity)
 * [ Why iOS 7 is making some users sick ](http://www.theguardian.com/technology/2013/sep/27/ios-7-motion-sickness-nausea)
