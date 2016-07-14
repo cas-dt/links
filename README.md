@@ -55,13 +55,18 @@
 * [Pattern Lab](http://patternlab.io/about.html)
 * [Brad Frost: Atomic Design](http://atomicdesign.bradfrost.com/)
 
-## Patterns etc.
+## Patterns, Style Tiles etc.
 
 * [A List Apart, From Pages to Patterns: An Exercise for Everyone](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone)
 * [A List Apart, Style Tiles and How They Work](http://alistapart.com/article/style-tiles-and-how-they-work)
 * [Front end styleguides and pattern libraries](https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides)
 * [50 Shades of Corporate Blue](http://madebymike.com.au/writing/style-guides-50-shades-of-corporate-blue/)
 * [A new mobile navigation menu](https://medium.com/@supjoey/the-curtain-menu-redesigning-drop-down-navigation-for-mobile-bd63b555a3df#.vcyszhpa9)
+
+## Style Guides
+
+* [Website Style Guide Ressources](http://styleguides.io/)
+* [Draft U.S. Web Design Standards](https://standards.usa.gov/)
 
 ## CSS Flexible Boxes
 
