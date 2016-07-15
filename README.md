@@ -407,9 +407,11 @@
 * [jFeed](https://github.com/jfhovinne/jFeed)
 
 ## Testing
+
 * [A List Apart – What Really Matters: Focusing on Top Tasks](http://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
 * [The Web Ahead, Interview with Gerry McGovern](http://5by5.tv/webahead/106)
-* [Testing Tim, Zürich](https://www.testingtime.com/de)
+* [Testing Time, Zürich](https://www.testingtime.com/de)
+* [Simone Reichlin – Measuring Visual Design](http://blog.ginetta.net/measuring-visual-design/)
 
 ## Performance
 
