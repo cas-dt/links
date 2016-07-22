@@ -163,6 +163,7 @@
 * [Washington Post – THE INSIDE STORY OF WHEN RUN‑DMC MET AEROSMITH AND CHANGED MUSIC FOREVER](https://www.washingtonpost.com/graphics/lifestyle/walk-this-way/)
 ## Webdesign, Schriften
 
+* [Type Specimens](https://typespecimens.io/)
 * [The State of Web Type](http://stateofwebtype.com/)
 * [Caring About Open Type Features](http://practice.typekit.com/lesson/caring-about-opentype-features/)
 * [CSS and System Fonts](http://adrianroselli.com/2015/07/css-and-system-fonts.html)
