@@ -32,6 +32,8 @@
 ## Tools
 
 * [Firefoxe’s Screenshot Command](http://meyerweb.com/eric/thoughts/2015/10/22/firefoxs-screenshot-command/)
+* [Giphy Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12&ign-mpt=uo%3D4#)
+* [Cockos, GIF Screen Capture](http://www.cockos.com/licecap/)
 
 ## Text Kit
 
@@ -239,7 +241,7 @@
 
 ## Bilder
 
-* [Eine Übersicht](http://www.entrepreneur.com/article/238646)
+* [Free Stock Photo Websites](http://www.entrepreneur.com/article/238646)
 * [Unsplash](https://unsplash.com/)
 * [Little Visuals](http://littlevisuals.co)
 * Muster: [The Pattern Library](http://thepatternlibrary.com/)
@@ -394,6 +396,7 @@
 * [Val Head, UI Animation and UX: A Not-So-Secret Friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
 * [Val Head, More Resources for Accessible Animations](http://alistapart.com/blog/post/more-resources-for-accessible-animations)
 * [CSS Keyframes](https://developer.mozilla.org/de/docs/Web/CSS/@keyframes)
+* [Interview with Rachel Smith, Egineer at CodePen](http://thundernerdshoo.com/2016/08/a-well-animated-web-is-the-future-with-engineer-at-codepen-rachel-smith/)
 
 ## Web Speech API
 
