@@ -3,7 +3,7 @@
 ## Design / Kritik
 
 * [Design Machines](https://louderthanten.com/articles/story/design-machines)
-* [The Billionaire's Typewriter](http://practicaltypography.com/billionaires-typewriter.html) 
+* [The Billionaire’s Typewriter](http://practicaltypography.com/billionaires-typewriter.html) 
 * [What Screens Want](http://frankchimero.com/writing/what-screens-want/)
 * [The Web’s Grain](http://www.frankchimero.com/writing/the-webs-grain/)
 * [Creative Mornings](http://creativemornings.com/talks/jennifer-daniel/1)
@@ -181,6 +181,7 @@
 * [I left my system fonts in San Francisco](http://furbo.org/2015/07/09/i-left-my-system-fonts-in-san-francisco/)
 * [How to use system typefaces in web projects](https://medium.com/mysmartprice-design/how-to-use-system-typefaces-in-web-projects-55e699d52fe6#.go9qcsj1n)
 * [Bram Stein: Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+* [Bram Stein: PostCSS plugin to scale values](https://github.com/bramstein/postcss-scale)
 * [The Web Fonts: Preloaded](http://www.zachleat.com/web/preload/)
 * [Please, No More Open Sans For A While](http://www.alphabettes.org/please-no-more-open-sans-for-a-while/)
 * [Nick Sherman – Variable Fonts for Responsive Design](https://github.com/mozilla/css-grid-inspector)
@@ -446,6 +447,8 @@
 
 * [Drawbot](http://www.drawbot.com/)
 * [Tutorial: Creating an animated gif with Python in DrawBot](https://vimeo.com/149247423)
+* [David Jonathan Ross’ Github Repo](https://github.com/djrrb/)
+* [FontTools](https://github.com/behdad/fonttools)
 
 ## Allgemein
 
