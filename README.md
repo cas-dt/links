@@ -151,6 +151,7 @@
 * [NASA API](https://api.nasa.gov/index.html)
 * [Blending Modes Demistified](http://alistapart.com/article/blending-modes-demystified)
 * [An inventory of typographic tools](http://typography.supply/)
+* [Marcin Wichary – Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.4e4t6vhnk)
 
 ## Gute (?) Web Sites als Beispiele
 
@@ -164,7 +165,7 @@
 * [Navigating Responsibly](http://www.navigatingresponsibly.dk/)
 * [Washington Post – THE INSIDE STORY OF WHEN RUN‑DMC MET AEROSMITH AND CHANGED MUSIC FOREVER](https://www.washingtonpost.com/graphics/lifestyle/walk-this-way/)
 
-## Webdesign, Schriften
+## Webdesign, Schrift
 
 * [Type Specimens](https://typespecimens.io/)
 * [The State of Web Type](http://stateofwebtype.com/)
@@ -187,11 +188,17 @@
 * [The Web Fonts: Preloaded](http://www.zachleat.com/web/preload/)
 * [Please, No More Open Sans For A While](http://www.alphabettes.org/please-no-more-open-sans-for-a-while/)
 * [Nick Sherman – Variable Fonts for Responsive Design](https://github.com/mozilla/css-grid-inspector)
+* [Size Calculator](http://sizecalc.com/)
 * [Make It Move with Erik van Blokland](https://vimeo.com/139030810)
 * [Jeremy Hornus – Live Optical Sizing](http://www.typosansplomb.com/ResponsiveInterpolation/)
 * [Nina Stoessinger](http://typologic.nl/)
-* [Size Calculator](http://sizecalc.com/)
 * [Designing Between Points](http://www.aetherpoint.com/blogpost/designing-between-points/)
+* [Tim Brown – Typesetting Body Text](https://vimeo.com/156203722)
+* [Bram Stein – Hyphenation & Justification (und vieles mehr)](https://www.youtube.com/watch?v=fFqTjWDVb0w)
+* [Tim Brown – Flexible Typography with CSS Locks](http://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/)
+* [Smashing Magazine – Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
+* [Vasilis van Gemert](https://vasilis.nl/nerd/variable-line-height/)
+* [Nathan Ford – Fluid typography with viewport units](http://artequalswork.com/posts/fluid-type/)
 
 ## Auflösung, Screens
 
@@ -498,6 +505,7 @@
 
 * [Technical Development Guide (How to Become a Programmer)](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [The Book of Shaders](http://thebookofshaders.com/) *Gehört ev. eher zu Processing/p5.js/drawbot/visual programming*
+* [Cube Composer](http://david-peter.de/cube-composer/)
 
 ## Service Workers
 
