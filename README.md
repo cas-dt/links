@@ -167,6 +167,7 @@
 
 ## Webdesign, Schrift
 
+* [Richard Rutter – CSS 3 Sandbox, OpenType Features](http://clagnut.com/sandbox/css3/)
 * [Type Specimens](https://typespecimens.io/)
 * [The State of Web Type](http://stateofwebtype.com/)
 * [Caring About Open Type Features](http://practice.typekit.com/lesson/caring-about-opentype-features/)
