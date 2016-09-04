@@ -363,6 +363,7 @@
 * [UI Talks, Animation](http://talks.ui-patterns.com/topics/animation)
 * [Smashing Magazine: Functional Animation in UX Design](https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/)
 * [Sarah Drasner: Practical Techniques On Designing Animation](https://www.smashingmagazine.com/2015/06/practical-techniques-on-designing-animation/)
+* [Motion Periodic Table](http://foxcodex.html.xdomain.jp/)
 
 ## Javascript Allgemein
 
