@@ -200,6 +200,9 @@
 * [Smashing Magazine – Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
 * [Vasilis van Gemert](https://vasilis.nl/nerd/variable-line-height/)
 * [Nathan Ford – Fluid typography with viewport units](http://artequalswork.com/posts/fluid-type/)
+* [John Hudson – Introducing OpenType Variable Fonts](https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369#.k1ijq3kfl)
+* [Variable Fonts Announcement](https://www.periscope.tv/w/1PlKQeQEkYkKE)
+* [Tim Brown – Variable fonts, a new kind of font for flexible design](url)
 
 ## Auflösung, Screens
 
