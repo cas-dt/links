@@ -72,6 +72,7 @@
 
 ## CSS Flexible Boxes
 
+* [Per Harald Borgen – Learn CSS Flexbox in 3 Minutes](https://medium.com/learning-new-stuff/learn-css-flexbox-in-3-minutes-c616c7070672#.vlkr1ho4q)
 * [Flexbox Game](https://www.flexboxgame.com/)
 * [Learn Flex Box With Flex Box Froggy](http://flexboxfroggy.com/)
 * [Almost complete guide to flexbox (without flexbox)](https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
