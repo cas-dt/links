@@ -496,6 +496,11 @@
 * [Interaction is an Enhancement](http://alistapart.com/article/interaction-is-an-enhancement)
 * [Jeremy Keith –Jeremy Keith – Regressive Web Apps](https://adactio.com/journal/10708)
 * [Why Britain Banned Mobile Apps](https://www.instapaper.com/read/733226787)
+* [Why we use progressive enhancement to build GOV.UK](https://gdstechnology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)
+* [How many people are missing out on JavaScript Enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
+* [Government Digital Service – Design Principles](https://www.gov.uk/design-principles)
+* [Google Dev – Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+* [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.2226043lt)
 
 ## Browsers
 
