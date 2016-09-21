@@ -205,6 +205,8 @@
 * [John Hudson – Introducing OpenType Variable Fonts](https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369#.k1ijq3kfl)
 * [Variable Fonts Announcement](https://www.periscope.tv/w/1PlKQeQEkYkKE)
 * [Tim Brown – Variable fonts, a new kind of font for flexible design](url)
+* [John Hudson – Introducing OpenType Variable Fonts](https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369#.4zww3b6as)
+* [Matthew Butterick – The Scorpion Express: Thoughts on OpenType Font Variations](http://practicaltypography.com/the-scorpion-express.html)
 
 ## Auflösung, Screens
 
