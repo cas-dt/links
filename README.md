@@ -35,7 +35,7 @@
 * [Giphy Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12&ign-mpt=uo%3D4#)
 * [Cockos, GIF Screen Capture](http://www.cockos.com/licecap/)
 
-## Text Kit
+## Apple, Text Kit
 
 * [Fonts unter iOS 7: Was wirklich dahinter steckt](http://www.fontblog.de/fonts-unter-ios-7-was-wirklich-dahinter-steckt)
 * [Using Text Kit to Draw and Manage Text](https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/CustomTextProcessing/CustomTextProcessing.html)
@@ -44,6 +44,10 @@
 * [Using Text Kit to Draw and Manage Text](https://developer.apple.com/library/prerelease/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/CustomTextProcessing/CustomTextProcessing.html#//apple_ref/doc/uid/TP40009542-CH4-SW65)
 * [About Text Handling in iOS](https://developer.apple.com/library/prerelease/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009542)
 * [Apple Developer Style Guide](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/ColorandTypography.html)
+[Apple WWDC – Introducing San Francisco](https://developer.apple.com/videos/play/wwdc2016/803/)
+[Apple WWDC – San Francisco, Typography](https://developer.apple.com/videos/play/wwdc2015/804/)
+[Apple WWDC – Inclusive Design](https://developer.apple.com/videos/play/wwdc2016/801/)
+[Apple WWDC – Internationalisation](https://developer.apple.com/videos/play/wwdc2016/201/)
 
 ## Google
 
