@@ -507,6 +507,7 @@
 * [Government Digital Service – Design Principles](https://www.gov.uk/design-principles)
 * [Google Dev – Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 * [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.2226043lt)
+* [Christian Heilmann – We need JavaScript to fix the web](https://medium.com/@codepo8/we-need-javascript-to-fix-the-web-a01bca57ff97#.183qiumrv)
 
 ## Browsers
 
