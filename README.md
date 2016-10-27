@@ -277,7 +277,7 @@
 * [Origami](https://facebook.github.io/origami/) (Facebook)
 * [Form](http://www.relativewave.com/form/) (Google)
 * [Principle](http://principleformac.com/) (Animation)
-* [Pixate](http://www.pixate.com/)
+* Obsolet: [Pixate](http://www.pixate.com/)
 * [Proto](https://proto.io/)
 * [Flinto](https://www.flinto.com/mac) (Animation)
 * [Hype 3](http://tumult.com/hype/)
@@ -294,6 +294,7 @@
 * [Sketch 3 Plugins](https://designcode.io/sketch-plugins)
 * [Design Tools News N° 7](http://www.subtraction.com/2015/09/30/design-tools-news-no-7/)
 * [UX App](https://www.ux-app.com/)
+* [Webflow](https://webflow.com/about)
 
 ## Colorschemes, Syntax Highlighting
 
@@ -375,6 +376,7 @@
 * [Smashing Magazine: Functional Animation in UX Design](https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/)
 * [Sarah Drasner: Practical Techniques On Designing Animation](https://www.smashingmagazine.com/2015/06/practical-techniques-on-designing-animation/)
 * [Motion Periodic Table](http://foxcodex.html.xdomain.jp/)
+* [Readymag Animations](http://animations.readymag.com/)
 
 ## Javascript Allgemein
 
