@@ -240,6 +240,7 @@
 * [CSS Grid Inspector](https://github.com/mozilla/css-grid-inspector)
 * [The New CSS Layout](https://vimeo.com/168522483)
 * [Rachel Andrews – CSS Layout](https://vimeo.com/168522483)
+* [Gutenberg – A Meaningful Web Typography Starter Kit](https://matejlatin.github.io/Gutenberg/)
 
 ## Styleguides
 
@@ -346,6 +347,7 @@
 * [Phantom.js](http://phantomjs.org/)
 * [Unheap](http://www.unheap.com/)
 * [Scrollmagic](http://scrollmagic.io/examples/basic/going_horizontal.html)
+* [Typeset.js](https://blot.im/typeset/)
 
 ## Animation
 
