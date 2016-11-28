@@ -242,6 +242,7 @@
 * [The New CSS Layout](https://vimeo.com/168522483)
 * [Rachel Andrews – CSS Layout](https://vimeo.com/168522483)
 * [Gutenberg – A Meaningful Web Typography Starter Kit](https://matejlatin.github.io/Gutenberg/)
+* [Vasilis van Gemert – Create the perfect website layout system](http://www.creativebloq.com/web-design/create-perfect-website-layout-system-121518553)
 
 ## Styleguides
 
