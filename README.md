@@ -158,7 +158,7 @@
 * [An inventory of typographic tools](http://typography.supply/)
 * [Marcin Wichary – Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.4e4t6vhnk)
 
-## Gute (?) Web Sites als Beispiele
+## Gute (?) Websites als Beispiele
 
 * [The Intercept](https://theintercept.com)
 * [MIT Technology Review](https://www.technologyreview.com)
@@ -211,6 +211,7 @@
 * [Tim Brown – Variable fonts, a new kind of font for flexible design](url)
 * [John Hudson – Introducing OpenType Variable Fonts](https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369#.4zww3b6as)
 * [Matthew Butterick – The Scorpion Express: Thoughts on OpenType Font Variations](http://practicaltypography.com/the-scorpion-express.html)
+* [Florian Schulz (Ginetta) – Designing with intent](https://medium.com/@getflourish/designing-with-intent-be6664b10ac#.whz2gnxyd)
 
 ## Auflösung, Screens
 
