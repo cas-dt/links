@@ -93,6 +93,7 @@
 * [HOW TO: Pure CSS masonry layouts](https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.77voblqui)
 * [Rachel Andrew: Should I Use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 * [Estelle Weyl – Flexbox: WTF](https://youtu.be/qDlswTzbnmk)
+* [Ohans Emanuel – Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.9xhghfwsr)
 
 ## Responsive Web Design (RWD)
 
@@ -350,6 +351,7 @@
 * [Unheap](http://www.unheap.com/)
 * [Scrollmagic](http://scrollmagic.io/examples/basic/going_horizontal.html)
 * [Typeset.js](https://blot.im/typeset/)
+* [Leaflet](http://leafletjs.com/)
 
 ## Animation
 
