@@ -560,6 +560,9 @@
 
 * [Pagekit](https://pagekit.com/)
 * [contentful](https://www.contentful.com/)
+* [Bolt](https://bolt.cm/)
+* [Craft](https://craftcms.com/)
+* [Kirby](https://getkirby.com/)
 
 ## Portfolio / Web Site Dienste
 
